@@ -2,6 +2,10 @@
 
 This project is a simple React application that displays a contact list and allows searching for contacts by name and phone number. It utilizes React components and state management to dynamically filter and display the contacts based on user input.
 
+## Demo
+
+https://contacts-rocnod7i0-devan7117.vercel.app
+
 ### Components
 
 The code consists of the following components:
